@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bideo.nemuidesu.tk
+    name: konopass-bonraru500
     env: python
     region: Oregon
     plan: free
